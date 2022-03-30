@@ -1,0 +1,57 @@
+/* In body the margin is set to zero the font family will apply the fonts to a "family" and dislplay the one available to the browser*/
+body {
+  margin:0;
+  font-family: 'Times New Roman', Times, serif;
+  background-color:#dc2f02;
+}
+/*Setting background for title*/
+header{
+  height: 140px;
+ background-color: #03071e;
+}
+/* "Canaan DePriest" at the top of my page is what this code is editing*/
+.title{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 72px;
+  color:#ccd5ae; 
+  text-align: center; 
+  letter-spacing: -3;
+  margin:0; 
+  padding: 20px 0 0 0;
+}
+/*"software engineering"*/
+header h2 {
+  font-family: 'Times New Roman', Times, serif;
+  color:#ccd5ae;
+  margin:0px;
+  font-size:20px;
+  text-align: center;
+}
+/*bottom of the page*/
+footer{
+  background-color:#03071e;
+  
+  
+}
+/*within the body*/
+section {
+	padding: 0 25%;
+  margin: 80px 0;
+  text-align:center;
+}
+/*styling for header elements*/
+h1, h2,h3{
+  font-family:'Didot', serif; 
+  font-size:25px;
+  text-align: center;
+  color:#e9edc9;
+  margin:0px
+}
+/*styling for paragraphs and list*/
+p, li{
+  font-style: helvetica, inherit;
+  color: #e9edc9;
+  font-weight:500; 
+}
+
+
