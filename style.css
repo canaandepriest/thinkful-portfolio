@@ -29,6 +29,13 @@ header h2 {
   text-align: center;
 }
 /*bottom of the page*/
+footer, #p {
+  background-color:black;
+  padding: 10px 10px 10px 10px;
+  color: white;
+  
+  
+}
 
 /*within the body*/
 section {
