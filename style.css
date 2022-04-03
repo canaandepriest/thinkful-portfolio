@@ -29,9 +29,10 @@ header h2 {
   text-align: center;
 }
 /*bottom of the page*/
-footer{
-  background-color:#5B5F97;
-padding: 10px 10px 10px 10px;
+footer, #p {
+  background-color:black;
+  padding: 10px 10px 10px 10px;
+  color: white;
   
   
 }
